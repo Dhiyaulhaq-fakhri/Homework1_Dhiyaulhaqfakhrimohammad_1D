@@ -4,7 +4,7 @@
 UKT merupakan dana kuliah yang harus dibayarkan mahasiswa per semester, dengan besaran yang berbeda-beda berdasarkan kesanggupan ekonomi orang tua atau walinya. Sedangkan kemampuan tersebut terukur melalui  penghasilan dan jumlah tanggungan keluarga.disini saya lebih ke menghitung biaya UKT secara teoritis dan semasuk akal mungkin.
 
 ## FLOWCHART
-! [flowchart](flowchart.png)
+![flowchart](flowchart.png)
 
 ## PENJELASAN PROGRAM PYTHON
 1.  program dimulai
